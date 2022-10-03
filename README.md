@@ -4,7 +4,7 @@
 
 - 🔥 Programming student
 
-- 👀 Looking for a job opportunity on technology job market
+- 👀 Looking for a job opportunity in the technology job market
 
 - 🔭 I’m currently studying **JS, HTML, CSS, NodeJS**
 
