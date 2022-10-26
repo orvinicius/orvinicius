@@ -4,9 +4,9 @@
 
 - 🔥 Programming student
 
-- 👀 Looking for a job opportunity in the technology job market
+- 👀 Looking for a job opportunity in the software development market
 
-- 🔭 I’m currently studying **JS, HTML, CSS, NodeJS**
+- 🔭 I’m currently studying **JS, HTML, CSS, NodeJS & ReactJS**
 
 
 
@@ -20,6 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![REACT](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 
 <br><br>
