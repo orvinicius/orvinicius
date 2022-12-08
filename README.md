@@ -50,4 +50,7 @@
 <a href="https://instagram.com/_vinior" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-_vinior-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+  <a href="https://gmail.com/viniciusoliveira311@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-viniciusrodrigues03-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
 </p>
