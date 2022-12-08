@@ -4,7 +4,11 @@
 
 - 🔥 Programming student
 
-- 👀 Looking for a job opportunity in the software development market
+- 🤔 Curiosity: Left-Handed
+
+- ▶️ I love to pratice and watch sports such as Soccer, Volleyball, Basketball and Running
+
+- 👀 Looking for a job opportunity as JR Front-End Developer
 
 - 🔭 I’m currently studying **JS, HTML, CSS, NodeJS & ReactJS**
 
