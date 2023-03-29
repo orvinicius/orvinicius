@@ -8,7 +8,7 @@
 
 - ▶️ I love to pratice and watch sports such as Soccer, Volleyball, Basketball and Running
 
-- 👀 Looking for a job opportunity as Jr Front-End Developer
+- 👀 Looking for a job opportunity as Jr Developer
 
 - 🔭 I’m currently studying **HTML, CSS, JS, Node.js & React.js**
 
